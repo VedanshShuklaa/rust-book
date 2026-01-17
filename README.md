@@ -1,3 +1,2 @@
-#rust-book
-
-- Contains everything I did from the rustbook
+# rust-book
+### Contains everything I did from the rust book
