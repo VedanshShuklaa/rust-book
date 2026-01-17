@@ -1,3 +1,3 @@
-# TurbinePB_Q425_VedanshShuklaa
+#rust-book
 
-My repo for the turbine pre-builder's program
+- Contains everything I did from the rustbook
